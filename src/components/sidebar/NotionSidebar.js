@@ -19,7 +19,7 @@ export default function NotionSidebar({
     new SidebarHeader({
         $target:$sidebar,
         initialState: {
-            name : '📚현진쓰 노션'
+            name : '📚hj Notion'
         } 
     })
 
